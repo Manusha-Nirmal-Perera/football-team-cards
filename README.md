@@ -17,22 +17,6 @@ This project demonstrates how to use modern JavaScript methods to dynamically re
 - **CSS**: For styling and responsive design.
 - **JavaScript**: For dynamic content rendering and interactivity.
 
-
-## Key Components
-
-### HTML
-
-The `index.html` file contains:
-- A `main` section for displaying team stats and player cards.
-- A `select` dropdown to filter players based on various criteria.
-
-### CSS
-
-The `styles.css` file includes:
-- A dark theme for the page.
-- Responsive design for mobile users.
-- Styled player cards with rounded corners and spacing.
-
 ### JavaScript
 
 The `script.js` file includes:
